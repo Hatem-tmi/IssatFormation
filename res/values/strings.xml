@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ISSATSousse2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="list_groups">Liste des Groupes</string>
+    <string name="list_students">Liste des Étudiants</string>
+    <string name="back">Retour</string>
+    <string name="add_student">Ajouter Étudiant</string>
+
+</resources>
