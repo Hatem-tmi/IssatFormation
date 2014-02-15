@@ -9,5 +9,6 @@
     <string name="list_students">Liste des Étudiants</string>
     <string name="back">Retour</string>
     <string name="add_student">Ajouter Étudiant</string>
+    <string name="refresh">Rafraichir</string>
 
 </resources>
