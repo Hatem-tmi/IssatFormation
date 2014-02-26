@@ -83,7 +83,7 @@ public class ListStudentsActivity extends Activity implements
 		student.setAge(20);
 
 		// add student and refresh listview
-		data.add(student);
+		data.add(0, student);
 		adapter.notifyDataSetChanged();
 	}
 
