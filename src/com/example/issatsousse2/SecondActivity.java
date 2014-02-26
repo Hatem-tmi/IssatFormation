@@ -34,6 +34,7 @@ public class SecondActivity extends Activity implements OnClickListener {
 		switch (view.getId()) {
 		case R.id.listGroupsButton:
 			startActivity(new Intent(this, ListGroupsActivity.class));
+			break;
 		case R.id.listStudentsButton:
 			startActivity(new Intent(this, ListStudentsActivity.class));
 			break;
